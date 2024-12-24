@@ -1,0 +1,8 @@
+streamlit>=1.0.0
+numpy>=1.18.0
+scikit-learn
+pandas
+pickle-mixin
+urllib3
+
+-e .
